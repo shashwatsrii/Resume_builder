@@ -1,0 +1,9 @@
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+.App{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  
+}
